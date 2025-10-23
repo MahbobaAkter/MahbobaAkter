@@ -2,9 +2,12 @@
 <h1 align="center">HEY 👋 I'm MAHBOBA </h1>
 <h3 align="center">3rd Year ICT Student at OAMK | Full-Stack Developer in Progress | Creative Tech Enthusiast </h3>
 
+
   <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="600" alt="coding animation">
 </p>
+
+
 
 
 <p align="center">
