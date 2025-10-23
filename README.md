@@ -1,10 +1,10 @@
 
-<h1 align="center">HEY 👋, I'm MAHBOBA h1>
+<h1 align="center">HEY 👋 I'm MAHBOBA </h1>
 <h3 align="center">3rd Year ICT Student at OAMK | Full-Stack Developer in Progress | Creative & Entrepreneurial Mindset</h3>
 
 ---
 
-- 🌱 I’m currently learning **React, Node.js, and Kotlin**
+- 🌱 I’m currently learning **React, Node.js, Python and Kotlin**
 - 💻 Working on **WebApp** (mobile + web)
 - 🎥 I create lifestyle & tech content on **YouTube / Instagram**
 - 🚀 Building future ventures in **Tech, Design, and Business**
@@ -15,9 +15,9 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="https://www.youtube.com/@mithilamithi" target="blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&style=for-the-badge"></a>
-<a href="https://www.instagram.com/mithilamithi" target="blank"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge"></a>
+<a href="   "><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+<a href="https://www.youtube.com/channel/UCu1vgZnE4T5Op1PeX-lo3Fg"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&style=for-the-badge"></a>
+<a href="  "><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge"></a>
 </p>
 
 ---
